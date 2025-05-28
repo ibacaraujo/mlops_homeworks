@@ -1,0 +1,15 @@
+artifact_uri: file:///home/user/Downloads/mlops_homeworks/homework_02/mlruns/0/b59d67c316ce4414b965a033f0d56804/artifacts
+end_time: 1748460378675
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b59d67c316ce4414b965a033f0d56804
+run_name: stylish-shrike-869
+run_uuid: b59d67c316ce4414b965a033f0d56804
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748460358074
+status: 3
+tags: []
+user_id: user
